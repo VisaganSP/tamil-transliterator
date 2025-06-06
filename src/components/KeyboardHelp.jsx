@@ -40,14 +40,14 @@ const KeyboardHelp = () => {
           
           <h4>Consonants</h4>
           <div className="mapping-grid">
-            <div>ka → க</div>
-            <div>nga → ங</div>
-            <div>sa/ca → ச</div>
-            <div>nja → ஞ</div>
+            <div>ka/ga → க</div>
+            <div>nGa → ங</div>
+            <div>sa/cha/ca → ச</div>
+            <div>Gna → ஞ</div>
             <div>ta/da → ட</div>
             <div>Na → ண</div>
             <div>tha/dha → த</div>
-            <div>na/wa → ந</div>
+            <div>nha/snha/wa → ந</div>
             <div>pa/ba → ப</div>
             <div>ma → ம</div>
             <div>ya → ய</div>
@@ -65,8 +65,9 @@ const KeyboardHelp = () => {
             <div>Sa → ஸ</div>
             <div>sha → ஷ</div>
             <div>ja → ஜ</div>
-            <div>ha → ஹ</div>
-            <div>ksh → க்ஷ</div>
+            <div>Ha → ஹ</div>
+            <div>ksh → க்ஷ்</div>
+            <div>ksha →க்ஷ</div>
             <div>sri → ஸ்ரீ</div>
           </div>
           
