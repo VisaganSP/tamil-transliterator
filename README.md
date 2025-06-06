@@ -15,7 +15,7 @@ A modern React application for typing Tamil using an English keyboard. This appl
 
 ## Demo
 
-Try the live demo: [Tamil Transliterator Demo](https://your-demo-url.com)
+Try the live demo: [Tamil Transliterator Demo](https://visagansp.github.io/tamil-transliterator/)
 
 ## Installation and Setup
 
