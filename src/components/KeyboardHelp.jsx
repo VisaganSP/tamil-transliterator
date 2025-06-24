@@ -20,6 +20,12 @@ const KeyboardHelp = () => {
       {isOpen && (
         <div className="help-content">
           <h3>Tamil Alphabet Mapping</h3>
+
+          <h4>Key Binding for Mode Toggle</h4>
+          <p>
+            Press <strong>Alt+3</strong> to toggle between English and Tamil (Tanglish) typing modes. 
+            In Tamil mode, your input will be transliterated to Tamil script. In English mode, your input will remain as typed.
+          </p>
           
           <h4>Basic Vowels</h4>
           <div className="mapping-grid">
